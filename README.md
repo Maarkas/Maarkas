@@ -1,10 +1,11 @@
-### Hi there, I'm Markas, a Software Engineer currently working in Telia Global Services Lithuania 👋
-### I also work as a teacher by contract at SDA Academy for aspiring programmers 👨‍💻
+### Hi there, I'm Markas a Software 👋👨‍💻
+### Currently working @ Telia Global Services Lithuania 
+### Ex-teacher @ SDA Academy for aspiring programmers 
+### MSc Degree student @ Vilnius University
 ---
 ### 🛠 &nbsp;My Tech Stack
 
 ## Web-Development
-Front-End: 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -14,7 +15,6 @@ Front-End:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=next.js)
 
-Back-End:
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-05122A?style=flat&logo=lumen)
@@ -34,6 +34,5 @@ Back-End:
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.mikey.lt"><img src="https://img.shields.io/badge/-Personal_Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/markas-mikalauskas-5059bb129/"><img src="https://img.shields.io/badge/-Markas%20Mikalauskas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:work.markas@gmail.com"><img src="https://img.shields.io/badge/-work.markas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
