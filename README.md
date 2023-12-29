@@ -34,5 +34,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
+<a href="https://mikey.lt"><img src="https://img.shields.io/badge/-mikey.lt-3a0b9e?style=flat&logo=GoogleChrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/markas-mikalauskas-5059bb129/"><img src="https://img.shields.io/badge/-Markas%20Mikalauskas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:work.markas@gmail.com"><img src="https://img.shields.io/badge/-work.markas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
